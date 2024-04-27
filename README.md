@@ -49,12 +49,12 @@
 
 
 ```c++
-#include <iostream>>
+#include <iostream>
 using namespace std;
 
 int main()
 {
-  cout << "Welcome to my learning journey"!;
+  cout << "Welcome to my learning journey!" << endl;
   return 0;
 }
 ```
