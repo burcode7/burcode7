@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Youtube - [burrow](https://www.youtube.com/channel/UC3fDOO_rfVS712Rm_xXEtlA)
 - Gmail - burrow6002@gmail.com
-- CPP Journey Link: [CPP-Learning-Journey](https://github.com/burcode7/CPP-Learning-Journey)
+- CPP Journey Link: [CPP-Course]([https://github.com/burcode7/CPP-Learning-Journey](https://github.com/burcode7/CPP-Course))
 
 
 
